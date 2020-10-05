@@ -1,7 +1,5 @@
 /**
- *Faça um algoritmo que receba 3 notas e seus respectivos pesos, calcule e mostre a media ponderada dessas
-    notas.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

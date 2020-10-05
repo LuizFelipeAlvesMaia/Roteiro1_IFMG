@@ -1,8 +1,5 @@
 /**
- *Faça um programa que receba de entrada um número real, encontre e mostre:
-    a. A parte inteira desse número;
-    b. A parte fracionária desse número.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

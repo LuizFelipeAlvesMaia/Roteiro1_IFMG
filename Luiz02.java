@@ -1,6 +1,5 @@
 /**
- * Implemente um algoritmo que leia um número inteiro e imprima seu antecessor e seu sucessor.
- * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

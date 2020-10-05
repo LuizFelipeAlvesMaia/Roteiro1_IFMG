@@ -1,8 +1,6 @@
 /**
-    Faça um algoritmo que leia dois valores numéricos e armazene nas variáveis A e B, após isso, efetue a
-    troca dos valores de forma que A passe a possuir o valor de B e B passe a possuir o valor de A. Imprima os
-    valores após troca. 
-    * @author Luiz Felipe Alves Maia
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
+ * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */
 package luizlistabsi;

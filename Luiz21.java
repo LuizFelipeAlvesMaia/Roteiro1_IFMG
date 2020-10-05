@@ -1,7 +1,6 @@
 /**
-    Faça um programa que receba a medida do ângulo formado por uma escada apoiada e a altura da parede.
-    Calcule e mostre a medida da escada para que a ponta da parede possa ser alcançada. *
-    * @author Luiz Felipe Alves Maia
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
+ * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */
 package luizlistabsi;

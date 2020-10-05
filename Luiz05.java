@@ -1,8 +1,5 @@
 /**
- *Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber,
-    sabendo que esse funcionário possui uma gratificação de 10% sobre o salário base e paga 5% de imposto
-    sobre o valor acumulado (salário base + gratificação).
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

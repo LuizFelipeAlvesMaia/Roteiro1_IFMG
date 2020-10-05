@@ -1,9 +1,6 @@
 /**
-    Faça um algoritmo que calcule a área de uma circunferência, recebendo o valor do raio. Obs.: Defina PI
-    como constante de valor 3.1416. 
-    
-    * @author Luiz Felipe Alves Maia
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
+ * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */
 package luizlistabsi;

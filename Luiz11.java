@@ -1,8 +1,5 @@
 /**
- *João recebeu seu salário e precisa pagar 2 contas atrasadas. Em razão do atraso, ele deverá pagar multa de
-    2% sobre cada conta. Faça um programa que receba o salário do João e o valor de cada conta, calcule e
-    mostre quanto restará de salário após o pagamento das duas contas.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

@@ -1,8 +1,5 @@
 /**
- *Implemente um algoritmo que receba o número de lados de um polígono convexo regular, calcule e mostre
-    o número de diagonais desse polígono. Sabe-se que ND = N*(N – 3)/2, em que N representa o número de
-    lados do polígono.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

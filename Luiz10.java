@@ -1,8 +1,5 @@
 /**
- *Uma pessoa depositou R$2000,00 em um fundo de investimento que rende 0.5% ao mês. Essa pessoa
-    gostaria de saber qual o total acumulado após 2 anos. Faça um programa que forneça tais informações.
-    (Obs. desconsidere correção monetária e utilize a fórmula de juros compostos).
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

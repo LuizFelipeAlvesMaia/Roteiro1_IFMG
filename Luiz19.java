@@ -1,10 +1,5 @@
 /**
- *Implemente m programa que receba um número positivo, calcule e mostre:
-     O número digitado elevado ao quadrado;
-     O número digitado elevado ao cubo;
-     A raiz quadrada do número;
-     A raiz cúbica do número.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

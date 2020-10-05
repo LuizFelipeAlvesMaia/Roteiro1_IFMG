@@ -1,9 +1,5 @@
 /**
- *Sabe-se que, para iluminar corretamente os cômodos de uma casa, para cada m2, deve-se usar 18 W de
-    potência. Faça um programa que receba as dimensões de um cômodo retangular (em metros), calcule e
-    mostre a área de mesmo (em m2) e a potência de iluminação necessária para iluminar corretamente o
-    cômodo.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

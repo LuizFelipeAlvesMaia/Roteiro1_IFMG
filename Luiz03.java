@@ -1,8 +1,5 @@
 /**
- *Implemente um algoritmo que receba 3 números reais de entrada. Calcule e mostre o resultado da
-    multiplicação dos dois primeiros números dividido pelo terceiro número fornecido pelo usuário. Sabe-se
-    que o denominador não pode ser zero, mas neste momento não se preocupe com as validações.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

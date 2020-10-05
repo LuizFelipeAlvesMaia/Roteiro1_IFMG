@@ -1,7 +1,5 @@
 /**
- *Faça um algoritmo que calcule a área e o perímetro de um retângulo recebendo de entrada os valores dos
-    lados.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

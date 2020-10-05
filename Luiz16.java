@@ -1,7 +1,5 @@
 /**
- *Faça um algoritmo que receba uma quantidade qualquer em minutos e converta em horas e minutos (utilize
-    divisão inteira e resto da divisão inteira).
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

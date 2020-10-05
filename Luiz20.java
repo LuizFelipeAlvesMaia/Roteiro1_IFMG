@@ -1,13 +1,5 @@
 /**
- *Faça um algoritmo que receba o número de horas trabalhadas, o valor do salário mínimo e o número de
-    horas extras trabalhadas. Calcule e mostre o salário a receber seguindo as seguintes regras:
-    a) O valor a ser pago por hora trabalhada é 0.125 do salário mínimo;
-    b) O valor a ser pago por hora extra vale 0.25 do salário mínimo;
-    c) o salário bruto equivale ao número de horas trabalhadas vezes o valor pago por hora;
-    d) a quantia a receber por horas extras equivale à horas extras realizadas multiplicado pelo valor pago
-    por hora extra;
-    e) o salário a receber equivale à soma do salário bruto mais a quantia a receber pelas horas extras.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */

@@ -1,8 +1,5 @@
 /**
- *Funcionários da IFVende tem como benefício a receber ao final de cada mês um salário fixo mais 4% de
-    comissão sobre as vendas realizadas pelo mesmo. Assim, faça um algoritmo que receba o salário fixo e o
-    valor de vendas realizadas por um funcionário, calcule e mostre o benefício a ser recebido pelo mesmo.
-    * 
+ *FaçFaça um programa que identifique se um número digitado pelo usuário é positivo, negativo ou zero.
  * @author Luiz Felipe Alves Maia
  * IFMG - Sabara
  */
